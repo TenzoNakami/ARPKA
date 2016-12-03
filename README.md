@@ -6,7 +6,7 @@ ARPKA is a multifunction GitHub Repository intended to be able to perform variou
 ##Credits
 
 - Andre Wijaya [2001539833]
-- Reydhid Febrian []
+- Reydhid Febrian [2001546712]
 - Patrick Kwan [2001542986]
 - Kevin Munandar [2001546832]
 - Andrew [2001541610]
