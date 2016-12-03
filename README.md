@@ -1,7 +1,7 @@
 # ARPKA
 ---
 ARPKA is a multifunction GitHub Repository intended to be able to perform various tasks.
-Written in Pure C [C - Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)), using the [Visual Studio](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio) library.
+<br>Written in Pure C [C - Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)) , using the [Visual Studio](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio) library.
 
 ##Credits
 
